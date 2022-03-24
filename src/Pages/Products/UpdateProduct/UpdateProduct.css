@@ -1,0 +1,22 @@
+.update-product form{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: lightcyan;
+}
+.update-product form input, textarea, select {
+    margin-top: 10px;
+    height: 40px;
+    width: 40%;
+    margin-bottom: 15px;
+   border-radius: 5px;
+}
+.fontdesign{
+    color:green;
+}
+.updatebtn{
+    color:white;
+    background-color:tomato;
+    font-size: large;
+}
